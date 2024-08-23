@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core_Dinamic_CV", "Core_Dinamic_CV\Core_Dinamic_CV.csproj", "{A14A5FC3-382A-4FD5-A2D4-76F448C2DC6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core_dynamic_CV", "Core_Dinamic_CV\Core_dynamic_CV.csproj", "{A14A5FC3-382A-4FD5-A2D4-76F448C2DC6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{F91AF8E3-3259-4B47-821B-ECF91C5E254F}"
 EndProject
