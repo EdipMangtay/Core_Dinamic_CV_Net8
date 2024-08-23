@@ -1,0 +1,1 @@
+# Core_Dinamic_CV
